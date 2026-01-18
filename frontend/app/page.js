@@ -1,11 +1,11 @@
-import Home from "./question/page";
+import ExamGenerator from "./question/page";
 
 
 
 export default function page() {
   return (
     <main>
-  <Home/>
+  <ExamGenerator/>
     </main>
   );
 }
