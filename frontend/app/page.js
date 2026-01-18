@@ -1,4 +1,5 @@
-import ExamGenerator from "./question/page";
+import ExamGenerator from "./components/question";
+
 
 
 
