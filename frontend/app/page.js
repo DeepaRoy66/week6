@@ -1,4 +1,4 @@
-import Home from "./question.jsx/page";
+import Home from "./question/page";
 
 
 
